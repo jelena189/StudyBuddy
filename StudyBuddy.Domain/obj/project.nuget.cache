@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iXitUpGdV6NgzU7xoBMF/Cc7vRrn59sZgKW9t4nisxCgqO+a2mSShbqU9VXBJNc4QRYcjzd0ERRNmy16lAhOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\source\\repos\\StudyBuddy\\StudyBuddy.Domain\\StudyBuddy.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\sonaranalyzer.csharp\\9.3.0.71466\\sonaranalyzer.csharp.9.3.0.71466.nupkg.sha512"
+  ],
+  "logs": []
+}

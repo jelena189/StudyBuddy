@@ -1,0 +1,17 @@
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\bin\Debug\net6.0\StudyBuddy.Services.deps.json
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\bin\Debug\net6.0\StudyBuddy.Services.dll
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\bin\Debug\net6.0\StudyBuddy.Services.pdb
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\bin\Debug\net6.0\StudyBuddy.Domain.dll
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\bin\Debug\net6.0\StudyBuddy.Repositories.dll
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\bin\Debug\net6.0\StudyBuddy.Domain.pdb
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\bin\Debug\net6.0\StudyBuddy.Repositories.pdb
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\StudyBuddy.Services.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\StudyBuddy.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\StudyBuddy.Services.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\StudyBuddy.Services.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\StudyBuddy.Services.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\StudyBuddy.Services.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\StudyBuddy.Services.dll
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\refint\StudyBuddy.Services.dll
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\StudyBuddy.Services.pdb
+C:\Users\Korisnik\source\repos\StudyBuddy\StudyBuddy.Services\obj\Debug\net6.0\ref\StudyBuddy.Services.dll

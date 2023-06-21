@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StudyBuddy.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:StudyBuddy.WebApi.Controllers.AuthController.LoginAsync(StudyBuddy.Domain.Models.UserLogin)">
+            <summary>
+            Log in
+            </summary>
+            <param name="userlogin"> user credentials </param>
+            <returns>JWT token</returns>
+        </member>
+        <member name="M:StudyBuddy.WebApi.Controllers.AuthController.SignUpAsync(StudyBuddy.Domain.Models.UserSignUp)">
+            <summary>
+            Create an account
+            </summary>
+            <param name="userSignUp"> user info </param>
+            <returns>No content 204 response if valid</returns>
+        </member>
+        <member name="M:StudyBuddy.WebApi.Controllers.BaseController`2.DeleteEntityAsync(System.Guid)">
+            <summary>
+            Deletes an entity
+            </summary>
+            <param name="id">Id of entity to delete</param>
+            <returns></returns>
+        </member>
+        <member name="M:StudyBuddy.WebApi.Controllers.BaseController`2.GetEntityAsync(System.Guid)">
+            <summary>
+            Finds entity
+            </summary>
+            <param name="id">Id of the entity to read</param>
+            <returns>JSON object containing the resource</returns>
+        </member>
+        <member name="M:StudyBuddy.WebApi.Controllers.BaseController`2.GetEntitiesAsync(StudyBuddy.Domain.Pagination.PaginationInput)">
+            <summary>
+            Gets paginated list of entities
+            </summary>
+            <param name="paginator">Page number and number of entities per page</param>
+            <returns>Paginated list of entities</returns>
+        </member>
+        <member name="M:StudyBuddy.WebApi.Controllers.SchoolController.CreateSchool(StudyBuddy.Domain.Dtos.SchoolDto)">
+            <summary>
+            
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
